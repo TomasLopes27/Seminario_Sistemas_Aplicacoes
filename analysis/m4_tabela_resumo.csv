@@ -1,0 +1,5 @@
+combustivel,r.squared,coef_brent,coef_isp
+gasoleo_especial,0.62,1.4873,1.8984
+gasoleo_simples,0.8162,2.0002,0.4486
+gasolina95_especial,0.5425,1.0469,0.4287
+gasolina95_simples,0.8521,1.4881,-0.0898
