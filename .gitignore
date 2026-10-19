@@ -1,0 +1,12 @@
+.DS_Store
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.toc
+*.vrb
+*.synctex.gz
+.Rhistory
+.RData
+.Rproj.user/
